@@ -1,4 +1,4 @@
-# SCT_ML_1
+# Mini-Project-ML-house_price_predictions
 
 # **House Price Prediction - Linear Regression Model**
 
